@@ -140,6 +140,7 @@ a {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+<<<<<<< HEAD
   padding: 0;
   overflow: hidden;
 }
@@ -150,6 +151,10 @@ a {
   object-fit: cover;
   border-radius: 50%;
   display: block;
+=======
+  cursor: default;
+  padding: 0;
+>>>>>>> 3dc794d49bb97a3d1d0340992dac4153fa91c0f3
 }
 
 .avatar-initials {
@@ -162,7 +167,10 @@ a {
 .identity {
   flex: 1;
   min-width: 0;
+<<<<<<< HEAD
   padding-right: 2.5rem;
+=======
+>>>>>>> 3dc794d49bb97a3d1d0340992dac4153fa91c0f3
 }
 
 .identity-name {
@@ -191,7 +199,11 @@ a {
 .theme-toggle {
   position: absolute;
   top: 0;
+<<<<<<< HEAD
   right: -2px;
+=======
+  right: 0;
+>>>>>>> 3dc794d49bb97a3d1d0340992dac4153fa91c0f3
   width: 32px;
   height: 32px;
   border-radius: 50%;
@@ -276,6 +288,7 @@ main {
 .section {
   padding-bottom: 5rem;
   scroll-margin-top: 2rem;
+<<<<<<< HEAD
 
   /* Scroll reveal */
   opacity: 0;
@@ -288,6 +301,8 @@ main {
 .section.is-visible {
   opacity: 1;
   transform: translateY(0);
+=======
+>>>>>>> 3dc794d49bb97a3d1d0340992dac4153fa91c0f3
 }
 
 .section-title {
